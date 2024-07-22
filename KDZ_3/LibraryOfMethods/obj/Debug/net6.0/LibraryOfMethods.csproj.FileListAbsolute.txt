@@ -1,0 +1,12 @@
+/Users/macos/Projects/Solution/LibraryOfMethods/bin/Debug/net6.0/LibraryOfMethods.deps.json
+/Users/macos/Projects/Solution/LibraryOfMethods/bin/Debug/net6.0/LibraryOfMethods.dll
+/Users/macos/Projects/Solution/LibraryOfMethods/bin/Debug/net6.0/LibraryOfMethods.pdb
+/Users/macos/Projects/Solution/LibraryOfMethods/obj/Debug/net6.0/LibraryOfMethods.csproj.AssemblyReference.cache
+/Users/macos/Projects/Solution/LibraryOfMethods/obj/Debug/net6.0/LibraryOfMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Projects/Solution/LibraryOfMethods/obj/Debug/net6.0/LibraryOfMethods.AssemblyInfoInputs.cache
+/Users/macos/Projects/Solution/LibraryOfMethods/obj/Debug/net6.0/LibraryOfMethods.AssemblyInfo.cs
+/Users/macos/Projects/Solution/LibraryOfMethods/obj/Debug/net6.0/LibraryOfMethods.csproj.CoreCompileInputs.cache
+/Users/macos/Projects/Solution/LibraryOfMethods/obj/Debug/net6.0/LibraryOfMethods.dll
+/Users/macos/Projects/Solution/LibraryOfMethods/obj/Debug/net6.0/refint/LibraryOfMethods.dll
+/Users/macos/Projects/Solution/LibraryOfMethods/obj/Debug/net6.0/LibraryOfMethods.pdb
+/Users/macos/Projects/Solution/LibraryOfMethods/obj/Debug/net6.0/ref/LibraryOfMethods.dll
